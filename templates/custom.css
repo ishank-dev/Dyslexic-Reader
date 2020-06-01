@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'opendyslexic';
+	src: url('../fonts/OpenDyslexic-Bold.otf');
+	font-style: normal;
+	font-weight: normal;
+} 
+
+
+* {
+	font-size:30px;
+	line-height:200%;
+	color: #191A42;
+	font-family:'opendyslexic' !important;
+}
