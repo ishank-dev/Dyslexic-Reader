@@ -3,8 +3,6 @@
 
 See live example:<br>
 https://ishank-dev.github.io/epub-reader/<br>
-Preloaded Epub Example<br>
-https://ishank-dev.github.io/epub-reader/templates/dyslexicRead.html
 ![Image of reader](https://github.com/ishank-dev/epub-reader/blob/master/docs/1.png)
 ## How to read books on the reader?
 Step 1: Upload your ``epub`` format book through the navmenu<br>
