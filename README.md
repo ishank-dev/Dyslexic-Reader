@@ -1,9 +1,9 @@
 # EBook Reader
 ##### A Web browser based epub reader built for people with different vision abilities.
 
-See live example:
-https://ishank-dev.github.io/epub-reader/
-Preloaded Epub Example
+See live example:<br>
+https://ishank-dev.github.io/epub-reader/<br>
+Preloaded Epub Example<br>
 https://ishank-dev.github.io/epub-reader/templates/dyslexicRead.html
 ![Image of reader](https://github.com/ishank-dev/epub-reader/blob/master/docs/1.png)
 ## How to read books on the reader?
