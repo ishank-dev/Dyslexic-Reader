@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'opendyslexic';
+	src: url('OpenDyslexic-Regular.otf');
+	font-style: normal;
+	font-weight: normal;
+} 
+
+
+.openDyslexic p h1 h2{
+	line-height:200%;
+	color: #191A42;
+	font-family:'opendyslexic' ;
+}

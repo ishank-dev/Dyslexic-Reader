@@ -1,0 +1,25 @@
+
+.dark {
+	background: #272822;
+	color: #F5F5F4
+}
+.dark h1{
+	color:#8086A2
+}
+
+.dark h2{
+	color:#8086A2
+}
+.dark p{
+	color:#F5F5F4;
+}
+
+.light {
+	background: #fff;
+	color: #000;
+}
+
+.tan {
+	background: tan;
+	color: #000;
+}

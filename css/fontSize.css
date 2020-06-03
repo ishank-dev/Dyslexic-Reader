@@ -1,0 +1,11 @@
+.smaller p{
+	font-size: smaller;
+
+}
+.medium p{
+	font-size: medium;
+
+}
+.larger p{
+	font-size: larger;
+}
