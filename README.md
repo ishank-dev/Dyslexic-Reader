@@ -8,6 +8,7 @@ https://ishank-dev.github.io/epub-reader/templates/dyslexicRead.html
 ![Image of reader](https://github.com/ishank-dev/epub-reader/blob/master/docs/1.png)
 ## How to read books on the reader?
 Step 1: Upload your ``epub`` format book through the navmenu<br>
+Get sample ebook from [here](https://www.gutenberg.org/ebooks/1342.epub.noimages?session_id=ce612f3267d1f8574d03b4ba89b783d578118854)<br>
 Step 2: Read the book :)
 
 ## Special Features
@@ -17,7 +18,7 @@ Step 2: Read the book :)
 - Customisable font-type and font-size
 - Keyboard Navigation
 
-## TODO
+## Coming Soon
 - Support for read out aloud
 - Annotations
 - Bookmark Pages
