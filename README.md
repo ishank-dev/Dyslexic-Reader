@@ -1,4 +1,4 @@
-# Dyslexic Reader
+# Dyslexic Reader Beta
 ##### A Web browser based epub reader built for people with different vision abilities.
 
 See live example:<br>
