@@ -24,7 +24,7 @@ Step 2: Read the book :)
 
 ## Development Setup
 Clone the repository<br>
-`` git clone https://github.com/ishank-dev/epub-reader.git``<br>
+`` https://github.com/ishank-dev/Dyslexic-Reader.git``<br>
 Run <br>
 `` index.html``
 
