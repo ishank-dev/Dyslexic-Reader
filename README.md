@@ -33,8 +33,8 @@ Run <br>
 - Propose a feature by creating a new issue
 - Create issues
 - Document and refactor the code
-
-#### Built with EpubJS
+## Acknowledgement 
+Built with EpubJS
 
 
 
