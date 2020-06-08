@@ -16,12 +16,12 @@ Step 2: Read the book :)
 - Keyboard Navigation
 
 ## Proposed Features
-- [] Support for read out aloud
-- [] Annotations
-- [] Bookmark Pages
-- [] Highlight Text
-- [] Mobile device scalability
-- [] Immersion Mode (Enlarged focus on one line at a time) 
+- [ ] Support for read out aloud
+- [ ] Annotations
+- [ ] Bookmark Pages
+- [ ] Highlight Text
+- [ ] Mobile device scalability
+- [ ] Immersion Mode (Enlarged focus on one line at a time) 
 
 ## Development Setup
 Clone the repository<br>
