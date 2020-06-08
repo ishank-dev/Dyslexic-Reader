@@ -9,7 +9,7 @@ Step 1: Upload your ``epub`` format book through the navmenu<br>
 Get sample ebook from [here](https://www.gutenberg.org/ebooks/1342.epub.noimages?session_id=ce612f3267d1f8574d03b4ba89b783d578118854)<br>
 Step 2: Read the book :)
 
-## Special Features
+## Beta Features
 - Support for Dyslexic Font (for people with dyslexia)
 - Supports Dark Mode
 - Customisable font-type and font-size
