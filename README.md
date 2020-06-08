@@ -1,7 +1,6 @@
 # Dyslexic Reader
 ##### A Web browser based epub reader built for people with different vision abilities.
-Over 400 million people all over the world are dyslexic. This reader aims to help solve this problem by making epubs as dyslexic friendly as possible.
-Its a work in progress project and is still under production.
+##### Desclaimer: The project is still in its initial phase of development.
 See live example:<br>
 https://ishank-dev.github.io/Dyslexic-Reader<br>
 ![Image of reader](https://github.com/ishank-dev/epub-reader/blob/master/docs/1.png)
