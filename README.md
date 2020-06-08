@@ -15,13 +15,15 @@ Step 2: Read the book :)
 - Customisable font-type and font-size
 - Keyboard Navigation
 
-## Proposed Features
+## Proposed Features/Coming Soon
 - [ ] Support for read out aloud
 - [ ] Annotations
 - [ ] Bookmark Pages
 - [ ] Highlight Text
 - [ ] Mobile device scalability
 - [ ] Immersion Mode (Enlarged focus on one line at a time) 
+- [ ] Text Translations
+- [ ] Sidebar Access to Table of Contents
 
 ## Development Setup
 Clone the repository<br>
