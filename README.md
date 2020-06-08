@@ -1,6 +1,7 @@
 # Dyslexic Reader
 ##### A Web browser based epub reader built for people with different vision abilities.
-
+Over 400 million people all over the world are dyslexic. This reader aims to help solve this problem by making epubs as dyslexic friendly as possible.
+Its a work in progress project and is still under production.
 See live example:<br>
 https://ishank-dev.github.io/Dyslexic-Reader<br>
 ![Image of reader](https://github.com/ishank-dev/epub-reader/blob/master/docs/1.png)
@@ -12,21 +13,27 @@ Step 2: Read the book :)
 ## Special Features
 - Support for Dyslexic Font (for people with dyslexia)
 - Supports Dark Mode
-- Scalable on all mobile devices (Work in Progress)
 - Customisable font-type and font-size
 - Keyboard Navigation
 
-## Coming Soon
-- Support for read out aloud
-- Annotations
-- Bookmark Pages
-- Highlight Text
+## Proposed Features
+- [] Support for read out aloud
+- [] Annotations
+- [] Bookmark Pages
+- [] Highlight Text
+- [] Mobile device scalability
+- [] Immersion Mode (Enlarged focus on one line at a time) 
 
 ## Development Setup
 Clone the repository<br>
 `` https://github.com/ishank-dev/Dyslexic-Reader.git``<br>
 Run <br>
 `` index.html``
+
+## Ways to contribute
+- Propose a feature by creating a new issue
+- Create issues
+- Document and refactor the code
 
 #### Built with EpubJS
 
