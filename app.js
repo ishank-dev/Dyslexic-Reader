@@ -1,7 +1,6 @@
 var currentSectionIndex = 0;
 var book = ePub();
 var rendition;
-
 var inputElement = document.getElementById("input");
 
 inputElement.addEventListener('change', function (e) {
@@ -15,7 +14,8 @@ inputElement.addEventListener('change', function (e) {
           document.getElementsByClassName("spreads")[0].setAttribute("id", "viewer"); 
       }
   });
-function openBook(e){
+
+  function openBook(e){
   var bookData = e.target.result;
   var title = document.getElementById("title");
   var next = document.getElementById("next");
