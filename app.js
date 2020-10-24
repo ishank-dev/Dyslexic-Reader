@@ -152,7 +152,60 @@ function openBook(e) {
     });
   rendition.themes.register("openDyslexic", "./css/openSansFont.css");
   rendition.themes.select("openDyslexic");
+  // Apply a class to selected text
+  rendition.on("selected", function (cfiRange, contents) {
+    rendition.annotations.highlight(cfiRange, {}, (e) => {
+      console.log("highlight clicked", e.target);
+    });
+    contents.window.getSelection().removeAllRanges();
+  });
 
+  this.rendition.themes.default({
+    "::selection": {
+      background: "rgba(255,255,0, 0.3)",
+    },
+    ".epubjs-hl": {
+      fill: "yellow",
+      "fill-opacity": "0.3",
+      "mix-blend-mode": "multiply",
+    },
+  });
+
+  // Illustration of how to get text from a saved cfiRange
+  var highlights = document.getElementById("highlights");
+
+  rendition.on("selected", function (cfiRange) {
+    book.getRange(cfiRange).then(function (range) {
+      var text;
+      var li = document.createElement("li");
+      var a = document.createElement("a");
+      var remove = document.createElement("a");
+      var textNode;
+
+      if (range) {
+        text = range.toString();
+        textNode = document.createTextNode(text);
+
+        a.textContent = cfiRange;
+        a.href = "#" + cfiRange;
+        a.onclick = function () {
+          rendition.display(cfiRange);
+        };
+
+        remove.textContent = "remove";
+        remove.href = "#" + cfiRange;
+        remove.onclick = function () {
+          rendition.annotations.remove(cfiRange);
+          return false;
+        };
+
+        li.appendChild(a);
+        li.appendChild(textNode);
+        li.appendChild(remove);
+        highlights.appendChild(li);
+      }
+    });
+  });
   rendition.themes.default({
     h2: {
       "font-size": "32px",

@@ -36,6 +36,36 @@ body {
   color: #777;
   cursor: pointer;
 }
+::selection {
+  background: yellow;
+}
+
+#extras {
+  width: 600px;
+  margin: 40px auto;
+}
+
+#highlights {
+  list-style: none;
+  margin-left: 0;
+  padding: 0;
+}
+
+#highlights li {
+  list-style: none;
+  margin-bottom: 20px;
+  border-top: 1px solid #e2e2e2;
+  padding: 10px;
+}
+
+#highlights a {
+  display: block;
+}
+
+#viewer.spreads {
+  top: 0;
+  margin-top: 50px;
+}
 
 #viewer.spreads {
   margin-top: 0px;
