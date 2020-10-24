@@ -1,24 +1,22 @@
 @font-face {
-	font-family: 'opendyslexic';
-	src: url('../fonts/OpenDyslexic-Regular.otf');
-	font-style: normal;
-	font-weight: normal;
-  } 
-.openSans *{
-	line-height:200%;
-	color: #191A42;
-	font-family: 'Open Sans', sans-serif;
+  font-family: "opendyslexic";
+  src: url("../fonts/OpenDyslexic-Regular.otf");
+  font-style: normal;
+  font-weight: normal;
+}
+.openSans * {
+  line-height: 200%;
+  color: #191a42;
+  font-family: "Open Sans", sans-serif;
 }
 @font-face {
-	font-family: 'opendyslexic';
-	src: url('../fonts/OpenDyslexic-Regular.otf');
-	font-style: normal;
-	font-weight: normal;
-  } 
-  
-.openDyslexic *{
-	line-height:200%;
-	color: #191A42;
-	font-family:'opendyslexic' ;
+  font-family: "opendyslexic";
+  src: url("../fonts/OpenDyslexic-Regular.otf");
+  font-style: normal;
+  font-weight: normal;
+}
 
+.openDyslexic * {
+  line-height: 200%;
+  font-family: "opendyslexic";
 }

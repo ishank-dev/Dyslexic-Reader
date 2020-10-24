@@ -1,6 +1,6 @@
 @font-face {
   font-family: "opendyslexic";
-  src: url("OpenDyslexic-Regular.otf");
+  src: url("../fonts/OpenDyslexic-Regular.otf");
   font-style: normal;
   font-weight: normal;
 }
@@ -11,8 +11,8 @@
   font-family: "opendyslexic";
 }
 body {
-  margin-top: 170px !important;
-  background: #fafafa;
+  margin-top: 170px;
+  background-color: #272822;
   font-family: "opendyslexic";
   color: #333;
   position: absolute;
@@ -27,16 +27,18 @@ body {
 #title {
   margin-top: 7px;
   font-size: 16px;
-  color: #777;
+  color: #f8f9fa;
   font-weight: 400;
+  text-align: center;
 }
 
 #title:hover {
   color: #777;
+  cursor: pointer;
 }
 
 #viewer.spreads {
-  margin-top: 200px;
+  margin-top: 0px;
   width: 900px;
   height: 500px;
   box-shadow: 0 0 4px #ccc;
@@ -45,7 +47,7 @@ body {
   position: relative;
   margin: 10px auto;
   background: white url("ajax-loader.gif") center center no-repeat;
-  top: calc(50vh - 400px);
+  top: calc(50vh - 498px);
 }
 
 #viewer.spreads .epub-view > iframe {

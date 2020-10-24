@@ -1,11 +1,25 @@
-.smaller p{
-	font-size: smaller;
-
+@font-face {
+  font-family: "opendyslexic";
+  src: url("../fonts/OpenDyslexic-Regular.otf");
+  font-style: normal;
+  font-weight: normal;
 }
-.medium p{
-	font-size: medium;
 
+.smaller p {
+  font-size: smaller;
+  line-height: 200%;
+  color: #191a42;
+  font-family: "opendyslexic";
 }
-.larger p{
-	font-size: larger;
+.medium p {
+  font-size: medium;
+  line-height: 200%;
+  color: #191a42;
+  font-family: "opendyslexic";
+}
+.larger p {
+  font-size: larger;
+  line-height: 200%;
+  color: #191a42;
+  font-family: "opendyslexic";
 }
