@@ -11,9 +11,12 @@ Step 2: Read the book :)
 
 ## Beta Features
 - Support for Dyslexic Font (for people with dyslexia)
-- Supports Dark Mode
 - Customisable font-type and font-size
-- Keyboard Navigation
+- Supports multiple themes<br>
+![Image of reader](https://github.com/ishank-dev/epub-reader/blob/master/docs/4.png)![Image of reader](https://github.com/ishank-dev/epub-reader/blob/master/docs/5.png)<br>
+- Highlight Text
+![Image of reader](https://github.com/ishank-dev/epub-reader/blob/master/docs/6.png)
+
 
 ## Proposed Features/Coming Soon
 - [ ] Support for read out aloud
