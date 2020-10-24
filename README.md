@@ -33,8 +33,7 @@ Run <br>
 
 ## Ways to contribute
 - Propose a feature by creating a new issue
-- Create issues
-- Document and refactor the code
+- Report Bugs
 ## Acknowledgement 
 Built with EpubJS
 
