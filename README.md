@@ -6,9 +6,7 @@ https://ishank-dev.github.io/Dyslexic-Reader<br>
 ## Beta Features
 ##### Support for Dyslexic Font (for people with dyslexia)
 ![Image of reader](https://github.com/ishank-dev/epub-reader/blob/master/docs/1.png)
-##### Supports multiple themes<br>
-![Image of reader](https://github.com/ishank-dev/epub-reader/blob/master/docs/4.png)![Image of reader](https://github.com/ishank-dev/epub-reader/blob/master/docs/5.png)<br>
-##### Highlight Text
+##### Highlight important text
 ![Image of reader](https://github.com/ishank-dev/epub-reader/blob/master/docs/6.png)
 ## How to read books on the reader?
 Step 1: Upload your ``epub`` format book through the navmenu<br>
