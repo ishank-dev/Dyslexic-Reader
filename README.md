@@ -21,7 +21,7 @@ Step 2: Read the book :)
 - [ ] Support for read out aloud
 - [ ] Annotations
 - [ ] Bookmark Pages
-- [ ] Highlight Text
+- [x] Highlight Text
 - [ ] Mobile device scalability
 - [ ] Immersion Mode (Enlarged focus on one line at a time) 
 - [ ] Text Translations
