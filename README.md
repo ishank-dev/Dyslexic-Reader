@@ -1,6 +1,5 @@
 # Dyslexic Reader
 ##### A Web browser based epub reader built for people with different vision abilities.
-##### Disclaimer: The project is still in its initial phase of development.
 See live example:<br>
 https://ishank-dev.github.io/Dyslexic-Reader<br>
 ## Beta Features
