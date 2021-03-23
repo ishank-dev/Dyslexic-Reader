@@ -8,7 +8,7 @@ https://ishank-dev.github.io/Dyslexic-Reader<br>
 ##### Highlight Text
 ![Image of reader](https://github.com/ishank-dev/epub-reader/blob/master/docs/3.png)
 ##### Dark and Tan Mode
-![Image of reader](https://github.com/ishank-dev/epub-reader/blob/master/docs/5.png)
+![Image of reader](https://github.com/ishank-dev/epub-reader/blob/master/docs/4.png)
 
 ## How to read books on the reader?
 Step 1: Upload your ``epub`` format book through the navmenu<br>
